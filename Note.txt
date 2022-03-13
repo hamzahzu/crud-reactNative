@@ -1,0 +1,4 @@
+Run React Native
+1. CD project React Native
+2. npx react-native start
+3. npx react-native run-android
